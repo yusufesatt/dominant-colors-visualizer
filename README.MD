@@ -11,3 +11,13 @@ Add also the --color_count argument to specify the number of dominant colors fou
 ```bash
 python dominant_colors.py --img_path path/to/your/img/ --color_count 4
 ```
+
+<hr>
+
+## Contributing
+
+If you encounter issues or have suggestions for improvements, please report them on the GitHub repository 🚀.
+
+## License
+
+This project is licensed under the [MIT License](https://github.com/yusufesatt/dominant-colors-visualizer/blob/main/LICENSE).
